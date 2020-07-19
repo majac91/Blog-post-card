@@ -55,7 +55,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background: url(../data.jpg) center no-repeat;
+    background: url(data.jpg) center no-repeat;
     background-size: cover;
     z-index: -1;
 }
